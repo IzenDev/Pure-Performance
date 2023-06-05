@@ -3,11 +3,8 @@ The Official Repo of the Pure Performance Modpack, made for Minecraft.
 
 # ModList:
 [AntiGhost](https://modrinth.com/mod/antighost)  
-
 [BetterBeds](https://modrinth.com/mod/better-beds)   
-
 [BetterPingDisplay](https://modrinth.com/mod/better-ping-display-fabric)   
-
 [BetterF3](https://modrinth.com/mod/betterf3)
 Continuity
 Cull Leaves
