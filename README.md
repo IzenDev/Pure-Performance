@@ -6,25 +6,24 @@ The Official Repo of the Pure Performance Modpack, made for Minecraft.
 [BetterBeds](https://modrinth.com/mod/better-beds)   
 [BetterPingDisplay](https://modrinth.com/mod/better-ping-display-fabric)   
 [BetterF3](https://modrinth.com/mod/betterf3).  
-Continuity.   
-Cull Leaves.  
-Dynamic FPS.  
-FastAnim.   
-FerriteCore.  
-ImmediatelyFast.  
-Indium.   
-Iris Shaders.  
-Krypton.  
-Lithium.  
-Memory Leak Fix.  
-MixinExtras.  
-Mod Menu.  
-Model Gap Fix.  
-More Culling    
-No Fade     
-Noxesium.   
-Shulker Box Tooltips.  
-Smooth Boot.  
-Sodium.  
-Starlight.  
-Very Many Players.  
+[Continuity](https://modrinth.com/mod/continuity)    
+[Cull Leaves](https://modrinth.com/mod/cull-leaves)  
+[Dynamic FPS](https://modrinth.com/mod/dynamic-fps)  
+[FastAnin](https://modrinth.com/mod/fastanim)   
+[FerriteCore](https://modrinth.com/mod/ferrite-core)  
+[ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)  
+[Indium](https://modrinth.com/mod/indium)   
+[Iris Shaders](https://modrinth.com/mod/iris)  
+[Krypton](https://modrinth.com/mod/krypton)  
+[Lithium](https://modrinth.com/mod/lithium) 
+[Memory Leak Fix](https://modrinth.com/mod/memoryleakfix)   
+[Mod Menu](https://modrinth.com/mod/modmenu) 
+[Model Gap Fix](https://modrinth.com/mod/modelfix)  
+[More Culling](https://modrinth.com/mod/moreculling)     
+[No Fade](https://modrinth.com/mod/no-fade)      
+[Noxesium](https://modrinth.com/mod/noxesium)   
+[Shulker Box Tooltips](https://modrinth.com/mod/shulkerboxtooltip)  
+[Smooth Boot](https://modrinth.com/mod/smoothboot-fabric)  
+[Sodium](https://modrinth.com/mod/sodium)  
+[Starlight](https://modrinth.com/mod/starlight) 
+[Very Many Players](https://modrinth.com/mod/vmp-fabric)  
