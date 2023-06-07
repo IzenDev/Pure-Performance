@@ -1,5 +1,11 @@
 # Pure-Performance
-The Official Repo of the Pure Performance Modpack, made for Minecraft.
+A Minecraft Modpack Built on the Fabric Modloader, aiming to increase performance.
+
+### [Our Discord Server](https://discord.gg/JqUuJdUCdG)
+
+# Downloads
+[Modrinth] COMING SOON
+[CurseForge] COMING SOON
 
 # ModList:
 [AntiGhost](https://modrinth.com/mod/antighost)  
