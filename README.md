@@ -7,7 +7,8 @@ A Minecraft Modpack Built on the Fabric Modloader, aiming to increase performanc
 [Pure Performance](https://modrinth.com/modpack/pure-performance)     
 [Pure Performance [Vulkan]](https://modrinth.com/modpack/pure-performance-vulkan)     
 
-# ModList:
+# ModList: 
+#### Updated Consistently
 [AntiGhost](https://modrinth.com/mod/antighost)  
 [BetterBeds](https://modrinth.com/mod/better-beds)   
 [BetterPingDisplay](https://modrinth.com/mod/better-ping-display-fabric)   
