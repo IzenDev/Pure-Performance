@@ -4,8 +4,8 @@ A Minecraft Modpack Built on the Fabric Modloader, aiming to increase performanc
 ### [Our Discord Server](https://discord.gg/JqUuJdUCdG)
 
 # Downloads
-[Modrinth] COMING SOON   
-[CurseForge] COMING SOON   
+[Pure Performance](https://modrinth.com/modpack/pure-performance) 
+[Pure Performance [Vulkan]](https://modrinth.com/modpack/pure-performance-vulkan)
 
 # ModList:
 [AntiGhost](https://modrinth.com/mod/antighost)  
