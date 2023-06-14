@@ -7,7 +7,7 @@ A Minecraft Modpack Built on the Fabric Modloader, aiming to increase performanc
 [Pure Performance](https://modrinth.com/modpack/pure-performance)     
 [Pure Performance [Vulkan]](https://modrinth.com/modpack/pure-performance-vulkan)    
 
-# Other Mods   
+# Other Modpacks    
 [Purely Vanilla Plus](https://modrinth.com/modpack/purely-vanilla-plus)
 
 # ModList: 
